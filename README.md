@@ -1,7 +1,7 @@
-## Acorn course enrolment
+# Acorn course enrolment
  Go Ahead and download the folder, you can unzip it.
  
-  STEP 1: Make sure you have all the dependencies. I'll be putting a requirement folder soon 
+  ### STEP 1: Make sure you have all the dependencies. I'll be putting a requirement folder soon 
   
   STEP 2: Run app.py 
   
