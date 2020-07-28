@@ -1,13 +1,13 @@
-# Acorn course enrolment
+# Acorn course enrolment automation
  Go Ahead and download the folder, you can unzip it.
  
-  STEP 1: Make sure you have all the dependencies. I'll be putting a requirement folder soon 
+  **STEP 1 :** Make sure you have all the dependencies. I'll be putting a requirement folder soon 
   
-  STEP 2: Run app.py 
+  **STEP 2:** Run app.py 
   
-  STEP 3: It should open up the app and a teminal for status checks
+  **STEP 3:** It should open up the app and a teminal for status checks
   
-  STEP 4: Follow the instruction given:
+  **STEP 4:** Follow the instruction given:
   
           1. Input your Utor Id and Password 
           
@@ -18,5 +18,5 @@
           3. Enter the couses in your enrolment cart that you would like to enrol in. Make sure that you are 
              allowed to enrol in those courses
           
-  STEP 5: Run it !
+  **STEP 5:** Run it !
           
