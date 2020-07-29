@@ -3,7 +3,7 @@
  
   **STEP 1 :** Make sure you have all the dependencies. I'll be putting a requirement folder soon 
   
-  **STEP 2:** Run app.py 
+  **STEP 2:** Run app.py or double click it 
   
   **STEP 3:** It should open up the app and a teminal for status checks
   
